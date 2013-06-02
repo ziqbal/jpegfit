@@ -16,6 +16,9 @@ If target file size is greater than the maximum possible then the highest qualit
 
 If target file size is inbetween then the closest file size will be found, making sure it does not exceed target file size.
 
+View sample images.
+First ever jpeg image to show file size in the actual image? Probably...
+
 2007-04-12	Added Image Resource getters and setters with examples
 2007-03-29	First version
 
